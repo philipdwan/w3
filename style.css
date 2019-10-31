@@ -1,0 +1,26 @@
+body{
+    background-color: yellow;
+    font-size: 50px;   
+    text-align: center;
+    background-image: url(https://cdn.abcotvs.com/dip/images/4512535_101818-kfsn-dig-shutterstock-halloween-img.jpg?w=1280&r=16%3A9);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: ;
+}
+#test{
+    color: green;
+}
+#sky{
+    width:45vw;
+}
+#heading{
+    font-size:3em
+}
+#para{
+    font-size: 1em;
+}
+#navbar a{
+    text-decoration: none;
+}
+
+
